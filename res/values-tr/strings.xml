@@ -1034,7 +1034,7 @@ Oyunun kurallarını çiğneyen bir oyuncuyu fark ederseniz, lütfen bir "Modera
     <string name="EULA">"EULA"</string>
     <string name="You_can_purchase_this_hat_for">"Bu şapkayı bu fiyat karşılığında satın alabilirsiniz:"</string>
     <string name="You_can_purchase_this_particle_for">"Bu parçacığı bu fiyat karşılığında satın alabilirsiniz:"</string>
-    <string name="You_can_purchase_this_eject_skin_for">"Bu parçacığı bu fiyat karşılığında satın alabilirsiniz:"</string>
+    <string name="You_can_purchase_this_eject_skin_for">"Bu cildi bu fiyat karşılığında satın alabilirsiniz:"</string>
     <string name="Skin">"Cilt"</string>
     <string name="Custom_Skin">"Özel cilt"</string>
     <string name="Color">"Renk"</string>
@@ -1197,7 +1197,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Refund__Multiskin">"Çoklu Cilt\n Geri Ödemesi"</string>
     <string name="Invalid_Clan_ID_">"Geçersiz Klan Kimliği."</string>
     <string name="MUTED">"SUSTURULDU"</string>
-    <string name="SKIN">"CİLT"</string>
+    <string name="SKIN">"KAPLAMA"</string>
     <string name="Choose_Skin_Size">"Cilt Boyutunu Seçin"</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">"Diğer oyuncular seni duyamazlar!"</string>
     <string name="Allow_permission_to_enable_voice_recording_">"Ses kaydını etkinleştirmek için izin verin."</string>
@@ -1215,17 +1215,17 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Specify_amount_">"Lütfen Miktarı Belirtin"</string>
     <string name="Specify_amount_again_to_confirm_">"Onaylamak için miktarı tekrar belirtin:"</string>
     <string name="Amounts_did_not_match_">"Miktarlar eşleşmedi!"</string>
-    <string name="RECEIVE_PLASMA">"PLAZMA ALINDI"</string>
+    <string name="RECEIVE_PLASMA">"PLAZMA ALIN"</string>
     <string name="MULTIBLOB">"ÇOKLU BALONCUK"</string>
     <string name="Play_Nebulous_For_1_Year_">"1 Yıl Boyunca Nebulous Oynadın. Teşekkür Ederiz!"</string>
     <string name="Play_Nebulous_For_X_Years_">"%d Yıl Boyunca Nebulous Oynadın. Teşekkür Ederiz!"</string>
     <string name="Starting___">"Başlıyor…"</string>
     <string name="Tournament_Starting">"Turnuva Başlıyor"</string>
-    <string name="Max_Tilt_Angle_3D_">"3D Max. Eğim Açısı:"</string>
-    <string name="Mode_3D">"3D Modu"</string>
+    <string name="Max_Tilt_Angle_3D_">"3 Boyutlu Max. Eğim Açısı:"</string>
+    <string name="Mode_3D">"3 boyutlu Modu"</string>
     <string name="Names_Below_Blobs">"İsimleri Baloncuğun Altında Göster"</string>
     <string name="Name_Scale_">"İsim Boyutu:"</string>
-    <string name="Button_3D">"3D Buton"</string>
+    <string name="Button_3D">"3 Boyutlu Buton"</string>
     <string name="Hide_Button_">"Düğmeyi Gizle?"</string>
     <string name="Show_Boost_Button">"Takviye Butonunu Göster"</string>
     <string name="Spectate_Killer_On_Death">"Yiyeni İzle"</string>
@@ -1241,7 +1241,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Search_Filter">"Arama Filtresi"</string>
     <string name="Received_">"Alındı:"</string>
     <string name="Opponent_Rating_Limit_">"Rakip Derecelendirme Limiti:"</string>
-    <string name="TOGGLE_FAVORITE">"Favorilere Ekleyin"</string>
+    <string name="TOGGLE_FAVORITE">"Favorileri değiştir"</string>
     <string name="Favorited">"Favorilere Başarı İle Eklendi."</string>
     <string name="Unfavorited">"Favorilerden Başarı İle Kaldırıldı"</string>
     <string name="Background_Scale_">"Arka Plan Boyutu:"</string>
@@ -1287,12 +1287,12 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Plasma_Boost">"Plazma Takviyesi"</string>
     <string name="particle_info">"Herhangi bir parçacığı görebilmek için en az 50 level olmalısınız ve parçacıklı bir taban cilt kullanmalısınız."</string>
     <string name="Plain_Score_Text">"Sade Skor Metni"</string>
-    <string name="Custom_Skin_Reviewed_Notification">Özel Skininiz İncelendi!</string>
+    <string name="Custom_Skin_Reviewed_Notification">Özel cilt İncelendi!</string>
     <string name="You_Have_Mail_">"%s Kişisinden Gelen Yeni Posta Var!"</string>
     <string name="sandbox_warning" translatable="true" tools:ignore="Untranslatable">"Bu modda XP veya Plazma Kazanılmamaktadır!"</string>
     <string name="Clan_Request_Reviewed_Notification">"Klana Katılım Talebiniz %s Gözden Geçirildi!"</string>
     <string name="CRAZY_SPLIT">"ÇILGIN BÖLÜNME 32x"</string>
-    <string name="Sold_Community_Skins_">"Satılan Topluluk Skinleri: "</string>
+    <string name="Sold_CSkinommunity_Skins_">"Satılan Topluluk ciltleri: "</string>
     <string name="Estimated_Earnings_">"Tahmini Kazanç: "</string>
     <string name="South_Africa">"Güney Afrika"</string>
     <string name="SPLIT_">"BÖLÜNME:"</string>
